@@ -1,0 +1,2 @@
+cd C:\Users\R\yeet
+python -m detector.server detector-base.pt
